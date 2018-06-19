@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Introduction 
 
-This is a report on 2010 gun murder rates obtained form the FBI. hi
+This is a report on 2010 gun murder rates obtained form the FBI. 
 
 We are going to use the following library:
 
